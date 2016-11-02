@@ -1,0 +1,4 @@
+title;description;latitude;longitude;type_id;
+"Title1";"Description1";111;222;1
+"Title2";"Description2";1111;2222;1
+"Title3";"Description3";11111;22222;1
